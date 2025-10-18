@@ -34,7 +34,6 @@ Our scenario is designed to be a realistic logistics puzzle:
 * **A Fleet of 3 Vehicles**: Each with a limited carrying capacity of 15 units.
 * **The Goal**: To find the set of routes that serves all customers within their constraints while minimizing the **total distance traveled** by the fleet.
 
-![Final Map Screenshot](https://i.imgur.com/u5T1WwG.png)
 _Screenshot of the final generated HTML map, `delhi_routes_map_with_time.html`._
 
 ---
