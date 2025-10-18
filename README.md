@@ -13,9 +13,6 @@ This repository documents the ground-up development of a sophisticated solution 
 
 <br>
 
-![Route Visualization GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmY4MXdhaGp0eTN0bDU4aGt6a2p2cjF3bGh1cG1uM2g1dDliM2Z2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LpdlqTfH6t501fD42/giphy.gif)
-_An example of the final interactive route visualization._
-
 ---
 
 ## ✨ Key Features
